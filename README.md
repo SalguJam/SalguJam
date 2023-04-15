@@ -22,6 +22,18 @@ Here are some ideas to get you started:
   <p class="bio">
     <h2>Hi there :)</h2>
   </p>
+  
+  </div>
+  <div align=center>
+	<a href="https://ivory59.tistory.com/">
+		<img src="https://img.shields.io/badge/Blog-c2b2ee?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+<!-- 	  <a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a> -->
+	<br>
+</div>
+  
 </div>
   
 ```js
